@@ -1,0 +1,31 @@
+* {
+    font-family: 'Verdana', sans-serif;
+    color: snow;
+}
+
+body {
+    background-color: rgb(18, 18, 53);
+    width: 800px;
+    margin: 10px auto;
+}
+
+a:hover {
+    color: orange
+}
+
+h1 {
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+    border-top: 2px dotted snow;
+    border-bottom: 2px dotted snow;
+    padding: 25px 0;
+}
+
+.link-list {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
